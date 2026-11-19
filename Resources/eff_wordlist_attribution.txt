@@ -1,0 +1,6 @@
+EFF's Long Wordlist, published by the Electronic Frontier Foundation.
+Source: https://www.eff.org/dice
+Original file: https://www.eff.org/files/2016/07/18/eff_large_wordlist.txt
+License: Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/).
+EFF copyright policy: https://www.eff.org/copyright
+The bundled word list is unmodified.

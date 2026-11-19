@@ -1,0 +1,42 @@
+/.build/
+/dist/
+/.local-signing-identity
+.DS_Store
+
+# Local builds and credential exports
+*.app/
+*.dmg
+*.zip
+*.tar.gz
+*.csv
+*.log
+.env
+.env.*
+
+# Signing files and keychains
+*.key
+*.pem
+*.p12
+*.pfx
+*.mobileprovision
+*.provisionprofile
+*.keychain
+*.keychain-db
+*.cer
+*.crt
+*.der
+
+# Local databases and runtime sidecar files
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+*.sqlite-wal
+*.sqlite-shm
+
+# Local encrypted vaults and transfer files
+*.stasher
+*.stasher.backup
+vault.lock
+.vault-*.tmp

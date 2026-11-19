@@ -1,6 +1,8 @@
 # Stasher
 
-Stasher is a macOS menu bar app for finding and copying website logins, addresses, and cards stored in your local Apple login Keychain. It also generates passwords, passphrases, and PINs and supports password CSV import and export.
+Stasher is a macOS menu bar app for finding and copying website logins, addresses, and cards. It also generates passwords, passphrases, and PINs and supports password CSV import and export.
+
+**Local-only.** Stasher stores your records in your Mac's local Apple Keychain. It has no cloud account or sync service and does not upload your records.
 
 <p align="center">
   <img src="docs/stasher-screenshot.png" alt="Stasher password panel with two fictional accounts and copy buttons" width="448" height="486">
